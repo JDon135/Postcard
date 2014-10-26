@@ -13,6 +13,8 @@
 		7ECAC6DF19F6DC5B0087B1CF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7ECAC6DE19F6DC5B0087B1CF /* Images.xcassets */; };
 		7ECAC6E219F6DC5B0087B1CF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7ECAC6E019F6DC5B0087B1CF /* LaunchScreen.xib */; };
 		7ECAC6EE19F6DC5B0087B1CF /* postcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ECAC6ED19F6DC5B0087B1CF /* postcardTests.swift */; };
+		7ECAC6FA19F83B5D0087B1CF /* papers.co-ac98-wallpaper-apple-red-lotus-iphone6-plus-ios8-flower-2-wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7ECAC6F919F83B5D0087B1CF /* papers.co-ac98-wallpaper-apple-red-lotus-iphone6-plus-ios8-flower-2-wallpaper.jpg */; };
+		7ECAC6FC19F83FA90087B1CF /* tumblr_mc0eyyNqFQ1rhztfto1_1280.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7ECAC6FB19F83FA90087B1CF /* tumblr_mc0eyyNqFQ1rhztfto1_1280.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		7ECAC6E719F6DC5B0087B1CF /* postcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = postcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7ECAC6EC19F6DC5B0087B1CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7ECAC6ED19F6DC5B0087B1CF /* postcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postcardTests.swift; sourceTree = "<group>"; };
+		7ECAC6F919F83B5D0087B1CF /* papers.co-ac98-wallpaper-apple-red-lotus-iphone6-plus-ios8-flower-2-wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "papers.co-ac98-wallpaper-apple-red-lotus-iphone6-plus-ios8-flower-2-wallpaper.jpg"; sourceTree = "<group>"; };
+		7ECAC6FB19F83FA90087B1CF /* tumblr_mc0eyyNqFQ1rhztfto1_1280.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tumblr_mc0eyyNqFQ1rhztfto1_1280.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		7ECAC6D519F6DC5B0087B1CF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7ECAC6F919F83B5D0087B1CF /* papers.co-ac98-wallpaper-apple-red-lotus-iphone6-plus-ios8-flower-2-wallpaper.jpg */,
+				7ECAC6FB19F83FA90087B1CF /* tumblr_mc0eyyNqFQ1rhztfto1_1280.jpg */,
 				7ECAC6D619F6DC5B0087B1CF /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,6 +198,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7ECAC6FA19F83B5D0087B1CF /* papers.co-ac98-wallpaper-apple-red-lotus-iphone6-plus-ios8-flower-2-wallpaper.jpg in Resources */,
+				7ECAC6FC19F83FA90087B1CF /* tumblr_mc0eyyNqFQ1rhztfto1_1280.jpg in Resources */,
 				7ECAC6DD19F6DC5B0087B1CF /* Main.storyboard in Resources */,
 				7ECAC6E219F6DC5B0087B1CF /* LaunchScreen.xib in Resources */,
 				7ECAC6DF19F6DC5B0087B1CF /* Images.xcassets in Resources */,
